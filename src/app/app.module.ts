@@ -1,4 +1,4 @@
-import { CoursesComponent } from './courses.component'
+import { CoursesComponent } from './courses/courses.component'
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
